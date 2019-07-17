@@ -1,4 +1,4 @@
 # seclay2.github.io
 
 
-https://pages.github.com/seclay2
+https://seclay2.github.io/
